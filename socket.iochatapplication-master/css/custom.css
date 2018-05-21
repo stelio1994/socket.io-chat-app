@@ -1,0 +1,51 @@
+
+body {
+	background-color: green;
+}
+#page {
+	background-color:;
+	color: white;
+
+}
+
+a.nav.navbar-brand {
+	color: white; 
+
+}
+
+li.nav-item.active {
+	overflow: hidden
+}
+a,li.nav-item.active {
+	color: white;
+	float: left;
+}
+
+#socket {
+	text-align: center;
+	padding: 35px;
+}
+.input-bar {
+    display: table;
+    width: 100%;
+}
+
+.input-bar-item {
+    display: table-cell;
+}
+
+.input-bar-item > button {
+    margin-left: 0;
+}
+
+.width100 {
+  width: 100%;
+}
+/*================ footer=========*/
+#footer {
+	position:absolute;
+	margin: 0;
+	bottom:0;
+
+   
+}
